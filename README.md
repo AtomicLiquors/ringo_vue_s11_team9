@@ -2,9 +2,10 @@
 
 ![](./video/Ringo_Project_Showcase 0-0 screenshot.png)
 
+<!--
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CNcxgEmPSJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!--
 # 팀원 소개
 
 | 팀원   |
