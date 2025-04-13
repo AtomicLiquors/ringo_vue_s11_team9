@@ -1,12 +1,14 @@
 # EnjoyTrip_DB_서울_11_최효빈_이강희
-[동영상 링크](https://www.youtube.com/watch?v=Zujd17yREBY)
+[티저 동영상 링크](https://www.youtube.com/watch?v=Zujd17yREBY)
+
+<br>
 
 # 팀원 소개
 
-| 팀원   |
-| ------ |
-| 최효빈 |
-| 이강희 |
+| 팀원   | 역할 |
+| ------ | ------ |
+| 최효빈 | 팀장, DB 설계, 화면 설계, 여행 계획/여행지 포토리뷰 등 공공데이터 연동 기능 구현 | 
+| 이강희 | 게시판 구현, JWT 로그인 구현, ChatGPT 연동 구현|
 
 
 # 1. 요구사항 구현 목록  
